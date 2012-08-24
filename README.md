@@ -1,8 +1,25 @@
-## Lunchbox-CSS
+<img src="https://dl.dropbox.com/u/1255340/lunchbox-logo-720.jpg" width="360" height="360" align="right">
+
+# Lunchbox CSS
 
 **Semantic CSS Framework for Rapid Prototyping and Responsive Layouts**
 
 …more documentation coming! for now check out the example files
+
+
+#Usage
+
+### Basic Structure
+
+A **.lunchbox** class must always wrap a **.lunch** class, and vice versa
+
+	<div class="lunchbox">
+		<div class="lunch">{content}</div>
+	</div>
+
+
+###Breakpoints
+
 
 	<body>
 	
