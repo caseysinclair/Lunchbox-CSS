@@ -1,6 +1,6 @@
-<img src="https://dl.dropbox.com/u/1255340/lunchbox-logo-720.jpg" width="360" height="360" align="right">
+<img src="https://dl.dropbox.com/u/1255340/lunchbox-logo-720.jpg" width="480" height="480" align="right">
 
-# Lunchbox CSS
+# LUNCHBOX CSS
 
 **Semantic CSS Framework for Rapid Prototyping and Responsive Layouts**
 
