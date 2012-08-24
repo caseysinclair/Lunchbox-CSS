@@ -1,4 +1,4 @@
-<img src="https://dl.dropbox.com/u/1255340/lunchbox-logo-720.jpg" width="420" height="420" align="right">
+<img src="https://dl.dropbox.com/u/1255340/lunchbox-logo-2x.jpg" width="420" height="420" align="right">
 
 # LUNCHBOX CSS
 
